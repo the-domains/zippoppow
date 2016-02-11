@@ -1,7 +1,7 @@
 name: zippoppow
 favicon: null
 layout_spectrum: 0.17034793109633029
-typography_spectrum: 0.5989071426447481
+typography_spectrum: 0.31292
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6048843404278159
-  lightness: 0.023327881935983896
-  saturation: 0.21151286852546036
-  rhythmicContrast: 0.7839286006055772
+    - '#ffffff'
+    - '#000000'
+    - '#98cb00'
+    - '#778c00'
+    - '#a80000'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
