@@ -1,4 +1,20 @@
-analytics: {}
+name: zippoppow
+favicon: null
+layout_spectrum: 0.6777
+typography_spectrum: 0.23261
+title: 'zippoppow | official wordz'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -6,13 +22,8 @@ color:
     - '#98cb00'
     - '#778c00'
     - '#a80000'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.6875
-  rhythmicContrast: 0.25
   saturation: 0.75
-cta: {}
-layout_spectrum: 0.6777
-name: zippoppow
-opengraph: {}
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.23261
