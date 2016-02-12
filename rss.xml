@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[zippoppow]]></title>
+        <description><![CDATA[zippoppow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 23:41:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[american liver, part 1]]></title>
+            <description><![CDATA[<article><h1>american liver, part 1</h1><p>so, i wake up in the middle of nothing-but-starlights-and-waves and wonder copiously for the matter of minutes …. huh, these days it’s minutes, never hours … smiling, i rise and speculate real quick for butter and some sort of suggested resonance with those others of namelessness and wonders percolating in the aetheric coast of my understanding that elsewhere they are as non-distracted by the smarter devices as I could be given other choices.</p></article>]]></description>
+            <link>undefinedamerican-liver-part-1/index.html</link>
+            <guid isPermaLink="false">a476d297-543e-487a-8763-5cbdfd9fe931</guid>
+            <pubDate>Thu, 11 Feb 2016 23:41:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
