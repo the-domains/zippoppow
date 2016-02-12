@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T00:28:34.419Z'
-dateModified: '2016-02-11T23:47:18.302Z'
+datePublished: '2016-02-12T08:16:27.982Z'
+dateModified: '2016-02-12T08:16:26.791Z'
 title: 'american liver, part 1'
 author: []
+sourcePath: _posts/2016-02-11-american-liver-part-1.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-american-liver-part-1.md
-published: true
 url: american-liver-part-1/index.html
 _type: Article
 
