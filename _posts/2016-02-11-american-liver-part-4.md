@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T19:02:27.943Z'
-dateModified: '2016-02-12T08:25:27.414Z'
+datePublished: '2016-03-03T17:32:21.186Z'
+dateModified: '2016-02-26T19:02:28.016Z'
 title: 'american liver, part 4'
 author: []
 sourcePath: _posts/2016-02-11-american-liver-part-4.md
@@ -30,7 +30,7 @@ bounding across a field of timothy hay,
 emerging and rising upon the curving horizon  
 angling in stop-animated edges  
 splintering into black inky hashes  
-at the corners of the pages  
+at the corners of the pages,  
 black until the border edge  
 bears an abrupt reprieve until  
 the appearances of the page give way  
